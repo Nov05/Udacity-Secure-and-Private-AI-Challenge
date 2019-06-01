@@ -3,7 +3,7 @@ Welcome to the Secure & Private AI Scholarship Challenge! We'd like to share som
 
 Your course runs from **May 30, 2019 - Aug 30, 2019**. Here's a checklist to get started:
 
-- **Start Learning.** Go to your classroom and click on the Secure & Private AI Scholarship Challenge course card. Make sure you're logged into your Udacity account with your email address. If you have taken several Udacity courses before, your course card may not appear on the first page of your classroom - it will instead be found on a subsequent classroom page.
+- **Start Learning.** Go to your [classroom](https://classroom.udacity.com/nanodegrees/nd185/) and click on the Secure & Private AI Scholarship Challenge course card. Make sure you're logged into your Udacity account with your email address. If you have taken several Udacity courses before, your course card may not appear on the first page of your classroom - it will instead be found on a subsequent classroom page.
 
 - **Join the [Secure & Private AI Challenge Slack Channel](https://slackin.udacity.com/secureprivateaischolar).** Interact with your scholarship classmates and community manager. Ask questions, support your classmates, and engage with the scholarship community.
 
