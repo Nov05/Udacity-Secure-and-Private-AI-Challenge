@@ -5,7 +5,7 @@
 **Google site** https://sites.google.com/udacity.com/secureprivateai-challenge  
 **Go to Course** https://classroom.udacity.com/nanodegrees/nd185/  
 **Course code** https://github.com/udacity/deep-learning-v2-pytorch.git  
-                https://github.com/udacity/private-ai.git  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;https://github.com/udacity/private-ai.git  
 **My code**  https://github.com/Nov05/private-ai   
 
 **Duration:** 2019-05-30 ~ 2019-08-30  
