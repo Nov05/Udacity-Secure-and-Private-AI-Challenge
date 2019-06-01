@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-<br>
+**Course Progress** 1/7 ![Progress](http://progressed.io/bar/14)  
 
 ## Challenge Content
 
