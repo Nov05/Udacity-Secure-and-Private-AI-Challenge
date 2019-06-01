@@ -1,6 +1,6 @@
 # Udacity-Secure-and-Private-AI-Challenge
 
-<img align="left" width="300" height="300" src="https://github.com/Nov05/Udacity-PyTorch_Challenge/blob/master/pictures/p60603977.jpg">  
+<img align="left" width="300" height="300" src="https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge/blob/master/pictures/spaic-scholarship-badge.png?raw=true">  
 
 **Go to Course** https://classroom.udacity.com/nanodegrees/nd185/  
 **Course code** https://github.com/udacity/deep-learning-v2-pytorch.git  
