@@ -9,8 +9,7 @@
 **My code**  https://github.com/Nov05/private-ai   
 
 **Duration:** 2019-05-30 ~ 2019-08-30  
-**Approximate time to complete:**  
-10 hours/week) * 12 weeks = 120 hours  
+**Approximate time to complete:** 10 hours/week * 12 weeks = 120 hours  
 
 **Final Project**  
 【To be updated】  
