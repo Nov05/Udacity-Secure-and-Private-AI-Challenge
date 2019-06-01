@@ -1,11 +1,11 @@
-# Udacity-Secure-and-Private-AI-Challenge
+﻿# Udacity-Secure-and-Private-AI-Challenge
 
 <img align="left" width="300" height="300" src="https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge/blob/master/pictures/spaic-scholarship-badge.png?raw=true">  
 
 **Go to Course** https://classroom.udacity.com/nanodegrees/nd185/  
 **Course code** https://github.com/udacity/deep-learning-v2-pytorch.git  
 
-**Duration:** 2019-05-30 ~ 2019-07-30  
+**Duration:** 2019-05-30 ~ 2019-08-30  
 **Approximate time to complete:**  
 10 hours/week) * 12 weeks = 120 hours  
 
