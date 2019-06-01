@@ -39,4 +39,48 @@ In this lesson, you will learn about the basics of differential privacy, a metho
 ## Course Videos  
 **Estimated time: 12 hours 31 minutes**  
 
+2.5. Single layer neural networks solution  
+https://youtu.be/mNJ8CujTtpo  
+2.7. Networks Using Matrix Multiplication  
+https://youtu.be/QLaGMz8Ca3E  
+2.8. Multilayer Networks Solution  
+https://youtu.be/iMIo9p5iSbE  
+2.9. Neural Networks in PyTorch  
+https://youtu.be/CSQOdOb2mlg  
+2.10. Neural Networks Solution  
+https://youtu.be/zym36ihtOMY  
+2.11. Implementing Softmax Solution  
+https://youtu.be/8KRX7HvqfP0  
+2.12. Network Architectures in PyTorch  
+https://youtu.be/9ILiZwbi9dA  
+2.13. Network Architectures Solution  
+https://youtu.be/zBWlOeX2sQM  
+2.14. Training a Network Solution  
+https://youtu.be/ExyFG2MjsKs  
+2.15. Classifying Fashion-MNIST  
+https://youtu.be/AEJV_RKZ7VU  
+2.16. Fashion-MNIST Solution  
+https://youtu.be/R6Y4hPLVQWM  
+2.17 Inference and Validation  
+https://youtu.be/XACXlkIdS7Y  
+2.18. Validation Solution  
+https://youtu.be/AjrXltxqsK4  
+2.19. Dropout Solution  
+https://youtu.be/3Py2SbtZLbc  
+2.20. Saving and Loading Models  
+https://youtu.be/psmrPu-mseA  
+2.21 Loading Image Data  
+https://youtu.be/hFu7GTfRWks  
+2.22. Loading Image Data Solution  
+https://youtu.be/d_NhvI1yEf0  
+2.25. Transfer Learning  
+https://youtu.be/S9F7MtJ5jls  
+2.26. Transfer Learning Solution  
+https://youtu.be/4n6T93hKRD4  
+2.27. Tips, Tricks, and Other Notes  
+PyTorch can only perform operations on tensors that are on the same device, so either both CPU or both GPU. 
+
+3.1 Secure & Private AI Program Introduction  
+https://youtu.be/H6nqoqZ2VGk  
+
 ## Fun Results  
