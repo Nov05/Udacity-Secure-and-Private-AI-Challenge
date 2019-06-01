@@ -11,7 +11,7 @@
 10 hours/week) * 12 weeks = 120 hours  
 
 **Final Project**  
-<To be updated>  
+【To be updated】  
 <br>
 <br>
 **Course Progress** 1/7 ![Progress](http://progressed.io/bar/14)  
@@ -36,7 +36,7 @@ Learn the concepts behind deep learning and how we train deep neural networks wi
 ### 3. Introducing Differential Privacy  
 In this lesson, you will learn about the basics of differential privacy, a method of measuring how operations impact the the privacy of data.
 
-<To be updated>  
+【To be updated】  
 
 ## Course Videos  
 **Estimated time: 12 hours 31 minutes**  
@@ -85,8 +85,8 @@ PyTorch can only perform operations on tensors that are on the same device, so e
 3.1 Secure & Private AI Program Introduction  
 https://youtu.be/H6nqoqZ2VGk  
 
-<To be updated>
+【To be updated】  
 
 ## Fun Results  
 
-<To be updated>  
+【To be updated】  
