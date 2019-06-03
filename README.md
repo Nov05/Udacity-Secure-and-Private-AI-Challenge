@@ -14,7 +14,7 @@
 **Final Project**  
 【To be updated】  
 
-**Course Progress** 1/7 ![Progress](http://progressed.io/bar/14)  
+**Course Progress** 4/7 ![Progress](http://progressed.io/bar/57)  
 
 ## Challenge Content
 
@@ -84,6 +84,13 @@ PyTorch can only perform operations on tensors that are on the same device, so e
 
 3.1 Secure & Private AI Program Introduction  
 https://youtu.be/H6nqoqZ2VGk  
+3.8 Project Demo Build a Private Database in Python  
+https://youtu.be/CLoMUpABMZg  
+
+4.1. Evaluating the Privacy of a Function  
+https://youtu.be/iUYJe8XxYk0  
+
+
 
 【To be updated】  
 
