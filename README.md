@@ -90,6 +90,30 @@ https://youtu.be/CLoMUpABMZg
 4.1. Evaluating the Privacy of a Function  
 https://youtu.be/iUYJe8XxYk0  
 
+6.1. Differential Privacy for Deep Learning  
+https://youtu.be/ZTRnP0zdSU4  
+6.2. Project Intro Example Scenario Deep Learning in a Hospital  
+https://youtu.be/l4YLESXHHC4  
+6.3. Generating Differentially Private Labels For a Dataset  
+https://youtu.be/YLNmDCrJi5U  
+
+6.7. Guest Interview: Differential Privacy at Apple  
+https://www.youtube.com/watch?v=FMVjezjrUEo  
+6.8. Guest Interview: Privacy and Society - OpenAI   
+https://youtu.be/by08lyQ18EA  
+
+Lesson 7: Federated Learning    
+7.1. Introducing Federated Learning   
+https://youtu.be/iMmeMhM3X6U   
+7.2. Introducing Pytyft   
+https://youtu.be/07ggtz1nr18  
+7.3. Introducing OpenMined and Installing PySyft   
+https://youtu.be/bma_jHHXZ94   
+7.4. Basic Remote Execution in PySyft   
+https://youtu.be/lKm4rSUvPe8    
+
+
+
 
 
 【To be updated】  
