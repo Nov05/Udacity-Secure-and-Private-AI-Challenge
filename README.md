@@ -14,7 +14,7 @@
 **Final Project**  
 【To be updated】  
 
-**Course Progress** 5/7 ![Progress](https://progress-bar.dev/28/)    
+**Course Progress** 5/7 ![Progress](https://progress-bar.dev/74/)    
 
 ## Challenge Content
 
