@@ -110,7 +110,12 @@ https://youtu.be/07ggtz1nr18
 7.3. Introducing OpenMined and Installing PySyft   
 https://youtu.be/bma_jHHXZ94   
 7.4. Basic Remote Execution in PySyft   
-https://youtu.be/lKm4rSUvPe8    
+https://youtu.be/lKm4rSUvPe8     
+7.5. Playing with Remote Tensors   
+https://youtu.be/toETnoNzdpc   
+7.6. Introducing Remote Arithmetic in PySyft
+https://youtu.be/V9w0BL-4hOU    
+
 
 
 
