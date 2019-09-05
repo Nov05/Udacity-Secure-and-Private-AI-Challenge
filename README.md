@@ -3,7 +3,8 @@
 <img align="left" width="300" height="300" src="https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge/blob/master/pictures/spaic-scholarship-badge.png?raw=true">  
 
 **Google site** https://sites.google.com/udacity.com/secureprivateai-challenge  
-**Go to Course** https://classroom.udacity.com/nanodegrees/nd185/  
+**Go to Course** Free online course
+https://www.udacity.com/course/secure-and-private-ai--ud185  
 **Course code** https://github.com/udacity/deep-learning-v2-pytorch.git  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;https://github.com/udacity/private-ai.git  
 **My code**  https://github.com/Nov05/private-ai   
