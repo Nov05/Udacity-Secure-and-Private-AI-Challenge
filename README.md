@@ -3,7 +3,7 @@
 <img align="left" width="300" height="300" src="https://github.com/Nov05/Udacity-Secure-and-Private-AI-Challenge/blob/master/pictures/spaic-scholarship-badge.png?raw=true">  
 
 **Google site** https://sites.google.com/udacity.com/secureprivateai-challenge  
-**Go to Course** Free online course
+**Go to Course** Free online course  
 https://www.udacity.com/course/secure-and-private-ai--ud185  
 **Course code** https://github.com/udacity/deep-learning-v2-pytorch.git  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;https://github.com/udacity/private-ai.git  
@@ -114,7 +114,7 @@ https://youtu.be/bma_jHHXZ94
 https://youtu.be/lKm4rSUvPe8     
 7.5. Playing with Remote Tensors   
 https://youtu.be/toETnoNzdpc   
-7.6. Introducing Remote Arithmetic in PySyft
+7.6. Introducing Remote Arithmetic in PySyft   
 https://youtu.be/V9w0BL-4hOU    
 
 
